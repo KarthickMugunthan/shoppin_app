@@ -25,6 +25,6 @@ final products = [
     'title': 'Semi-Boots ',
     'price': 2300,
     'imageUrl': 'assets/images/shoes_4.png',
-    'sizes': [9,10,13,13],
+    'sizes': [9,10,13,15],
   },
 ];
